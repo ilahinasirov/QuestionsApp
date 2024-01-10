@@ -1,0 +1,15 @@
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\bin\Debug\net7.0\QuestionsApp.exe
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\bin\Debug\net7.0\QuestionsApp.deps.json
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\bin\Debug\net7.0\QuestionsApp.runtimeconfig.json
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\bin\Debug\net7.0\QuestionsApp.dll
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\bin\Debug\net7.0\QuestionsApp.pdb
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\QuestionsApp.csproj.AssemblyReference.cache
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\QuestionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\QuestionsApp.AssemblyInfoInputs.cache
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\QuestionsApp.AssemblyInfo.cs
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\QuestionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\QuestionsApp.dll
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\refint\QuestionsApp.dll
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\QuestionsApp.pdb
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\QuestionsApp.genruntimeconfig.cache
+C:\Users\Nasirov\QuestionsApp\QuestionsApp\obj\Debug\net7.0\ref\QuestionsApp.dll
