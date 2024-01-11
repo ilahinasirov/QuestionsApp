@@ -1,10 +1,10 @@
-﻿namespace QuestionsApp
+﻿namespace QuestionsConsoleApp
 {
 	public class Question
 	{
-		public string Text { get; private set; }
-		public List<string> Options { get; private set; } 
-		public int RightAnswerNumber { get; private set; }
+		public string Text { get;  set; }
+		public List<string> Options { get;  set; } 
+		public int RightAnswerNumber { get;  set; }
 
 		public Question(string text, List<string> options, int rightAnswer)
 		{

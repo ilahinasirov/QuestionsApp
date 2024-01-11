@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nasirov\\QuestionsApp\\QuestionsApp\\QuestionsApp.csproj",
-      "projectName": "QuestionsApp",
-      "projectPath": "C:\\Users\\Nasirov\\QuestionsApp\\QuestionsApp\\QuestionsApp.csproj",
+      "projectUniqueName": "C:\\Users\\Nasirov\\QuestionsApp\\QuestionsApp\\QuestionsConsoleApp.csproj",
+      "projectName": "QuestionsConsoleApp",
+      "projectPath": "C:\\Users\\Nasirov\\QuestionsApp\\QuestionsApp\\QuestionsConsoleApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nasirov\\QuestionsApp\\QuestionsApp\\obj\\",
       "projectStyle": "PackageReference",

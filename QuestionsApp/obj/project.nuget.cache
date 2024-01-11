@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b+Od0ACbt8S/v0q1Qyz3JW6ew+4+MvZOAax5adu41En3+UAtcWfPe9oLdxOao0/9gvKOkJZbpb423eseV0ApOQ==",
+  "dgSpecHash": "aqbHKYKbNtfK+86mrQIQrUtuVwGNXOgQSzlkqyEXmtB/vy5AEzroV4XHnJaD7rF1eId1kPGNQJDTCb07rITNtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nasirov\\QuestionsApp\\QuestionsApp\\QuestionsApp.csproj",
+  "projectFilePath": "C:\\Users\\Nasirov\\QuestionsApp\\QuestionsApp\\QuestionsConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
